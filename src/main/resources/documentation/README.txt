@@ -3,7 +3,7 @@ Bryan DUONG & Axel VITTET
 
 Database :
 Name : unilasalle
-User : admin OU root
+User : root
 Password : admin
 
 Port : 5011
